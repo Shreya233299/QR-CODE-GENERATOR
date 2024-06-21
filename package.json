@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A QR CODE GENERATOR USING NODE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SHREYA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "inquirer": "^9.2.23",
+    "qr-image": "^3.2.0"
+  }
+}
